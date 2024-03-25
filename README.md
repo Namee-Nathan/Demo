@@ -1,2 +1,2 @@
 # Demo
-This a demo repo
+This is my python repo
