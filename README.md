@@ -1,2 +1,2 @@
-# Demo
+# Python
 This is my python repo
