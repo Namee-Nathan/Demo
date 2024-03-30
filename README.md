@@ -1,2 +1,1 @@
-# Python
-This is my python repo
+# Python Projects
