@@ -1,5 +1,3 @@
-##attrib +h +s +r name_of_the_file_with_extension
-
 # Importing the required modules
 import maskpass,base64,time,os,bcrypt,json
 from colorama import Fore
